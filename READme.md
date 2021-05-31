@@ -5,6 +5,9 @@
 ## Description
 This is a python application that manages our passwords and even creates new passwords for users.
 
+ ## How to clone the repository to any other machine 
+* git clone https://github.com/ayuelgarang105/PasswordLocker.git
+
 
 ## User Stories
 The user would like to.. :
