@@ -8,9 +8,10 @@ class user:
 
     user_user = []
 
-    def __init__(self,user_name,password):
+    def __init__(self,user_name,password,email):
         self.user_name = user_name
         self.user_name = password
+        self.user_name = email
         
 
     def save_user(self):
