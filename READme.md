@@ -29,9 +29,6 @@ As a user of the terminal application you will be able to:
 6. Search for a saved credential
 8. Delete a saved credential
 
-
- ```https://github.com/Benardakaka/Password-Locker-Application```
-
 2. Clone the project.
 
 3. Get into Python folder (cd into Python).
