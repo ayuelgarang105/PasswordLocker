@@ -3,7 +3,7 @@
 
 import random
 import string
-import py
+import pyperclip
 
 class User:
     userList = []
