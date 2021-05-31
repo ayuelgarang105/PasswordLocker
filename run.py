@@ -231,4 +231,4 @@ if __name__ == "__main__":
             print("Welcome once again.Goodluck")
             isTrue = False
         else:
-            print("invalid short code")
+            print("invalid shortcode")
