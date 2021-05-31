@@ -46,10 +46,10 @@ As a user of the terminal application you will be able to:
 Python3.8
 ```
 
-To Install **python 3.6** on terminal execute
+To Install **python 3.8** on terminal execute
 
 ```
-apt-get install python3.6
+apt-get install python3.8
 ```
 
 ```
@@ -83,4 +83,4 @@ The app will open on terminal
 ### License
 
 * LICENSED UNDER  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license/MIT)
-* Copyright &copy;[Ayuel_Gabriel] 
+* Copyright &copy;[Ayuel_Gabriel] 2021
