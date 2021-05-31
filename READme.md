@@ -1,6 +1,6 @@
 # Password_Locker
 
-#### Author: [Benard Akaka](https://github.com/Ayuelgarang105)
+#### Author: [Ayuel Gabriel](https://github.com/Ayuelgarang105)
 
 ## Description
 
