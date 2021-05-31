@@ -7,10 +7,9 @@ import pyperclip
 
 class User:
     userList = []
-    def __init__(self, user_name, password, email):
+    def __init__(self, user_name, password):
         self.user_name = user_name
         self.password = password
-        self.user_name = email
         self.isLoggedin = False
 
     def createUser(user_name, password):
