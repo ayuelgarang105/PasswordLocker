@@ -43,7 +43,7 @@ As a user of the terminal application you will be able to:
 **What you need to install the application and how to install them.**
 
 ```
-Python3.6
+Python3.8
 ```
 
 To Install **python 3.6** on terminal execute
