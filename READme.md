@@ -3,9 +3,7 @@
 #### Author: [Ayuel Gabriel](https://github.com/Ayuelgarang105)
 
 ## Description
-
-This is a python application that manages our passwords and even create new passwords for us.
-
+This is a python application that manages our passwords and even creates new passwords for users.
 
 
 ## User Stories
