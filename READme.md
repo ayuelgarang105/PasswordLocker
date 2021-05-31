@@ -79,7 +79,7 @@ The app will open on terminal
 
 ## Built With
 
-* [Python3.6](https://docs.python.org/3/)
+* [Python3.8](https://docs.python.org/3/)
 
 
 ### License
