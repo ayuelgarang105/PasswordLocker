@@ -38,7 +38,7 @@ As a user of the terminal application you will be able to:
 
 ### Technologies and Pre-requisites
 
-* [Python3.6]
+* [Python3.8]
 
 **What you need to install the application and how to install them.**
 
