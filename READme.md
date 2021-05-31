@@ -1,4 +1,4 @@
-# Password_Locker
+# [Password_Locker]
 
 #### Author: [Ayuel Gabriel](https://github.com/Ayuelgarang105)
 
